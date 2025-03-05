@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://scienceofscience.github.ioLeave blank for root/sitemap.xml
+Sitemap: https://scienceofscience.github.io/sitemap.xml
