@@ -1,20 +1,20 @@
 ---
 layout: page
-title: people_sub
+title: people
 nav: true
 nav_order: 1
 dropdown: true
 children:
   - title: director
-    permalink: /people/
+    permalink: /director/
   - title: divider
 
   - title: researchers
-    permalink: /people/
+    permalink: /researchers/
   - title: divider
 
   - title: collaborators
-    permalink: /people/
+    permalink: /collaborators/
   - title: divider
 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: profiles
-permalink: /profiles/
-title: people
+permalink: /director/
+title: director
 description: 
 nav: false
 nav_order: 1
