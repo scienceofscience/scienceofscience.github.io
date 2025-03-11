@@ -9,12 +9,15 @@ children:
     permalink: /director/
   - title: divider
 
-  - title: researchers
-    permalink: /director/
+  - title: affiliated researchers
+    permalink: /affiliated_researchers/
   - title: divider
 
-  - title: collaborators
-    permalink: /director/
-  
+  - title: external researchers
+    permalink: /external_researchers/
+  - title: divider
+
+  - title: external advisors
+    permalink: /external_advisors/
 
 ---
