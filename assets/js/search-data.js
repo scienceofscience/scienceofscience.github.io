@@ -16,19 +16,26 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/director/";
               },
-            },{id: "dropdown-researchers",
-              title: "researchers",
+            },{id: "dropdown-affiliated-researchers",
+              title: "affiliated researchers",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/director/";
+                window.location.href = "/affiliated_researchers/";
               },
-            },{id: "dropdown-collaborators",
-              title: "collaborators",
+            },{id: "dropdown-external-researchers",
+              title: "external researchers",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/director/";
+                window.location.href = "/external_researchers/";
+              },
+            },{id: "dropdown-external-advisors",
+              title: "external advisors",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/external_advisors/";
               },
             },{id: "nav-publications",
           title: "publications",
