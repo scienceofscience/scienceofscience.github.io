@@ -14,21 +14,21 @@ ninja.data = [{
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/people/";
+                window.location.href = "/director/";
               },
             },{id: "dropdown-researchers",
               title: "researchers",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/people/";
+                window.location.href = "/researchers/";
               },
             },{id: "dropdown-collaborators",
               title: "collaborators",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/people/";
+                window.location.href = "/collaborators/";
               },
             },{id: "nav-publications",
           title: "publications",
@@ -37,28 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "dropdown-director",
-              title: "director",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/people/";
-              },
-            },{id: "dropdown-researchers",
-              title: "researchers",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/people/";
-              },
-            },{id: "dropdown-collaborators",
-              title: "collaborators",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/people/";
-              },
-            },{id: "post-a-post-with-image-galleries",
+        },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
       
