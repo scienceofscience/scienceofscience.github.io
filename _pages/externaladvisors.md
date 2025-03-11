@@ -1,7 +1,7 @@
 ---
 layout: profiles
-permalink: /researchers/
-title: researchers
+permalink: /external_advisors/
+title: external advisors
 description: 
 nav: false
 nav_order: 1
@@ -44,5 +44,4 @@ profiles:
       <p>555 your office number</p>
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
-
 ---
