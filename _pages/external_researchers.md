@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /external_researchers/
-title: external_researchers
+title: external researchers
 description: 
 nav: false
 nav_order: 1
