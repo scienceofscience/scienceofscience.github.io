@@ -10,11 +10,11 @@ children:
   - title: divider
 
   - title: researchers
-    permalink: /researchers/
+    permalink: /director/
   - title: divider
 
   - title: collaborators
-    permalink: /collaborators/
-  - title: divider
+    permalink: /director/
+  
 
 ---

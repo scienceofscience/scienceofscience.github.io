@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /researchers/
-title: researchers
+title: researcher
 description: 
 nav: false
 nav_order: 1
