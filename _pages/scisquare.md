@@ -3,7 +3,7 @@ layout: page
 permalink: /scisquare/
 title: sci square
 description: 
-nav: false
+nav: true
 nav_order: 3
 ---
 
