@@ -1,7 +1,7 @@
 ---
 layout: profiles
-permalink: /collaborators/
-title: collaborators
+permalink: /affiliated_researchers/
+title: affiliated researchers
 description: 
 nav: false
 nav_order: 1

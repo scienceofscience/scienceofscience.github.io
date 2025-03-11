@@ -1,7 +1,7 @@
 ---
 layout: profiles
-permalink: /researchers/
-title: researchers
+permalink: /external_researchers/
+title: external_researchers
 description: 
 nav: false
 nav_order: 1
