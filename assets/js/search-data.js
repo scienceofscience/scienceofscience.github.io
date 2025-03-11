@@ -51,6 +51,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/scisquare/";
           },
+        },{id: "nav-archives",
+          title: "archives",
+          description: "Historical archives for science of science researchers in South Korea",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/archives/";
+          },
         },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
