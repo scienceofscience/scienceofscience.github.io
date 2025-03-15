@@ -3,7 +3,7 @@ layout: page
 permalink: /archives/
 title: archives
 description: Historical archives for science of science researchers in South Korea
-nav: true
+nav: false
 nav_order: 4
 ---
 
