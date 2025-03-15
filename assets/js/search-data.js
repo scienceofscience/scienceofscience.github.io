@@ -49,7 +49,7 @@ ninja.data = [{
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/scisquare_distinguished_fellowship/";
+                window.location.href = "/sciquare_intro/";
               },
             },{id: "dropdown-doctoral-dissertation-fellowship",
               title: "doctoral dissertation fellowship",
