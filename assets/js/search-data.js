@@ -37,27 +37,6 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/external_advisors/";
               },
-            },{id: "dropdown-introduction",
-              title: "introduction",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/scisquare/";
-              },
-            },{id: "dropdown-doctoral-dissertation-fellowship",
-              title: "doctoral dissertation fellowship",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/affiliated_researchers/";
-              },
-            },{id: "dropdown-distinguished-fellowship",
-              title: "distinguished fellowship",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/external_researchers/";
-              },
             },{id: "nav-publications",
           title: "publications",
           description: "Search",
@@ -65,14 +44,28 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-sci-square",
-          title: "sci square",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/scisquare/";
-          },
-        },{id: "nav-archives",
+        },{id: "dropdown-introduction",
+              title: "introduction",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/scisquare_distinguished_fellowship/";
+              },
+            },{id: "dropdown-doctoral-dissertation-fellowship",
+              title: "doctoral dissertation fellowship",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/scisquare_doctoral_dissertation_fellowship/";
+              },
+            },{id: "dropdown-distinguished-fellowship",
+              title: "distinguished fellowship",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/scisquare_distinguished_fellowship/";
+              },
+            },{id: "nav-archives",
           title: "archives",
           description: "Historical archives for science of science researchers in South Korea",
           section: "Navigation",
