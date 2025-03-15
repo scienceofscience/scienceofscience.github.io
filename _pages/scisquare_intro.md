@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /scisquare/
+permalink: /scisquare_intro/
 title: sci square
 description: 
-nav: true
+nav: false
 nav_order: 3
 ---
 

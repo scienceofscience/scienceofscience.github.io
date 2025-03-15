@@ -1,19 +1,19 @@
 ---
 layout: page
-title: sci square 2
+title: sci square
 nav: true
-nav_order: 1
+nav_order: 3
 dropdown: true
 children:
   - title: introduction
-    permalink: /scisquare/
+    permalink: /scisquare_distinguished_fellowship/
   - title: divider
 
   - title: doctoral dissertation fellowship
-    permalink: /affiliated_researchers/
+    permalink: /scisquare_doctoral_dissertation_fellowship/
   - title: divider
 
   - title: distinguished fellowship
-    permalink: /external_researchers/
+    permalink: /scisquare_distinguished_fellowship/
 
 ---
