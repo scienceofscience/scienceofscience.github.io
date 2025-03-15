@@ -49,7 +49,7 @@ ninja.data = [{
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/sciquare_intro/";
+                window.location.href = "/scisquare_intro/";
               },
             },{id: "dropdown-doctoral-dissertation-fellowship",
               title: "doctoral dissertation fellowship",
@@ -65,14 +65,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/scisquare_distinguished_fellowship/";
               },
-            },{id: "nav-archives",
-          title: "archives",
-          description: "Historical archives for science of science researchers in South Korea",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/archives/";
-          },
-        },{id: "post-a-post-with-image-galleries",
+            },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
       
