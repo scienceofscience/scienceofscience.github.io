@@ -37,6 +37,27 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/external_advisors/";
               },
+            },{id: "dropdown-introduction",
+              title: "introduction",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/scisquare/";
+              },
+            },{id: "dropdown-doctoral-dissertation-fellowship",
+              title: "doctoral dissertation fellowship",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/affiliated_researchers/";
+              },
+            },{id: "dropdown-distinguished-fellowship",
+              title: "distinguished fellowship",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/external_researchers/";
+              },
             },{id: "nav-publications",
           title: "publications",
           description: "Search",
