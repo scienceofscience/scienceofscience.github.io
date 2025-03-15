@@ -6,7 +6,7 @@ nav_order: 3
 dropdown: true
 children:
   - title: introduction
-    permalink: /scisquare_distinguished_fellowship/
+    permalink: /sciquare_intro/
   - title: divider
 
   - title: doctoral dissertation fellowship
