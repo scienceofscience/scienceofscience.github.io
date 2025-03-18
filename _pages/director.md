@@ -11,7 +11,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: people/yongjunzhu.jpg
-    content: about_einstein.md
+    content: about_yongjunzhu.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <center>Yongjun Zhu</center>
