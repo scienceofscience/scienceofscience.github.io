@@ -1,5 +1,16 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Dr. Yongjun Zhu is an associate professor in the Department of Library and Information Science at Yonsei University, South Korea. He is the founding director of the [DataLab](https://datalab.yonsei.ac.kr/) and the [Center for Science of Science] (https://sci.yonsei.ac.kr/) at Yonsei University. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before joining Yonsei University, he was an assistant professor in the Department of Library and Information Science and department chair in the Department of Data Science at [Sungkyunkwan University](https://www.skku.edu/skku/index.do). He also worked as a postdoctoral associate at the [Department of Population Health Sciences](https://weill.cornell.edu/units/population-health-sciences), [Weill Cornell Medicine](https://weill.cornell.edu/), [Cornell University](https://www.cornell.edu/). 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+He obtained his Ph.D. in Information Science from the [College of Computing and Informatics](https://drexel.edu/cci/) at [Drexel University](https://drexel.edu/), where he was awarded the [2017 Eugene Garfield Doctoral Dissertation Fellowship](https://drexel.edu/cci/news/2017/August/yongjun-zhu-awarded-2017-eugene-garfield-doctoral-dissertation-fellowship/). 
+
+He is passionate about advancing the science of science in South Korea through various initiatives, including:
+1. Introducing the first graduate-level course on the science of science in 2022.
+2. Establishing the first university research center on the science of science in 2025.
+3. Publishing high-quality research articles and open datasets.
+4. Expanding further initiatives to foster research and collaboration in the field.
+
+
+
+
