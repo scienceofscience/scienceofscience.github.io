@@ -14,7 +14,7 @@ profiles:
     content: about_yongjunzhu.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <center>Yongjun Zhu</center>
+      <center>Dr. Yongjun Zhu</center>
 
 
 ---
