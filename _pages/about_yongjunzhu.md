@@ -6,10 +6,12 @@ Before joining Yonsei University, he was an assistant professor in the Departmen
 He obtained his Ph.D. in Information Science from the [College of Computing and Informatics](https://drexel.edu/cci/) at [Drexel University](https://drexel.edu/), where he was awarded the [2017 Eugene Garfield Doctoral Dissertation Fellowship](https://drexel.edu/cci/news/2017/August/yongjun-zhu-awarded-2017-eugene-garfield-doctoral-dissertation-fellowship/). 
 
 He is passionate about advancing the science of science in South Korea through various initiatives, including:
-1. Introducing the first graduate-level course on the science of science in 2022.
-2. Establishing the first university research center on the science of science in 2025.
-3. Publishing high-quality research articles and open datasets.
-4. Expanding further initiatives to foster research and collaboration in the field.
+1. Introducing the country’s first graduate-level course on the science of science in 2022.
+2. Establishing the first university-based research center dedicated to the science of science in 2025.
+3. Launching fellowship programs and awards to support early-career researchers in the field in 2025.
+4. Publishing high-quality research articles and open datasets.
+5. Expanding initiatives to further foster research and collaboration in the field.
+6. Staying flexible and enthusiastic about bold ideas—especially those I’ll wish I had thought of first.
 
 
 
