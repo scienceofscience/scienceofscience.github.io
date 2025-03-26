@@ -10,38 +10,31 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: people/souhyunjang.jpg
+    content: about_souhyunjang.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <ceter>Dr. Sou Hyun Jang</center>
+
 
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: people/soojeounghan.jpg
+    content: about_soojeounghan.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <ceter>Dr. Soo Jeoung Han</center>
 
   - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: people/eunhaoh.jpg
+    content: about_eunhaoh.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <ceter>Dr. Eun Ha Oh</center>
 
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: people/jiyeonkook.jpg
+    content: about_jiyeonkook.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <ceter>Dr. Jiyeon Kook</center>
 ---
