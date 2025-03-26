@@ -1,0 +1,3 @@
+Dr. Eun Ha OH is an Associate Professor at the College of Liberal Arts, Yonsei University. She received her B.A. and M.A. from Seoul National University and earned her Ph.D. in contemporary French literature from Université Sorbonne Nouvelle – Paris 3. 
+
+Her primary research focuses on French prose literature between the two World Wars, with particular emphasis on the literary world of Jean-Paul Sartre. Her interests include the evolving relationship between literature and society, the act of reading and reception theory, and the power and limits of language. She explores these themes through the works of writers such as Jean-Paul Sartre, Albert Camus, Paul Nizan, Annie Ernaux, Michel Tournier, and Victor Hugo.

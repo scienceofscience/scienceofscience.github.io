@@ -1,0 +1,3 @@
+Dr. Jiyeon Kook is an Associate Professor in the Department of German Language and Literature at Yonsei University. She specializes in conversation analysis and earned a PhD from the Leibniz Institute for the German Language (IDS) in Mannheim, Germany, with a dissertation focusing on medical communication.  
+
+Her research focuses on conversation analysis of phenomena observed in spoken German, effective German language teaching methodologies, and translation and interpreting studies. Her conversation analysis research spans various types of interactions, including medical and everyday conversations.
