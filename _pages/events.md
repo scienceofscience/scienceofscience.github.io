@@ -3,7 +3,7 @@ layout: page
 title: events
 permalink: /events/
 description: Workshops, Tutorials, & Invited Talks.
-nav: false
+nav: true
 nav_order: 3
 display_categories: [workshop, tutorial, talk]
 horizontal: false
