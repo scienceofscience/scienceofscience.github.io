@@ -429,6 +429,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "events-first-workshop-on-the-science-of-science-in-south-korea",
+          title: 'First Workshop on the Science of Science in South Korea',
+          description: "with background image",
+          section: "Events",handler: () => {
+              window.location.href = "/events/workshop_20205/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
