@@ -22,7 +22,7 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <center>555 your office number</center>
+      <center>Dr. Donghun Kim</center>
 
 
  
