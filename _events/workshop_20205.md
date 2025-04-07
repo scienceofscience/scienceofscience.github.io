@@ -1,7 +1,7 @@
 ---
 layout: page
-title: First Workshop on the Science of Science in South Korea
-description: with background image
+title: 1st Workshop
+description: April 7, 2025
 img: assets/img/events/2025_workshop.jpg
 importance: 1
 category: workshop
