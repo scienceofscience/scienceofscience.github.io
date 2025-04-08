@@ -429,8 +429,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "events-first-workshop-on-science-of-science",
-          title: 'First Workshop on Science of Science',
+            },},{id: "events-first-workshop-on-the-science-of-science",
+          title: 'First Workshop on the Science of Science',
           description: "April 7, 2025 @ Yonsei University",
           section: "Events",handler: () => {
               window.location.href = "/events/2025_workshop/";
