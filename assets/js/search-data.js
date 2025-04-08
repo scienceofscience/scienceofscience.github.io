@@ -433,7 +433,7 @@ ninja.data = [{
           title: '1st Workshop',
           description: "April 7, 2025",
           section: "Events",handler: () => {
-              window.location.href = "/events/workshop_20205/";
+              window.location.href = "/events/workshop_2025/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
