@@ -2,7 +2,7 @@
 layout: page
 title: project 1
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/events/2025_workshop.jpg
 importance: 1
 category: workshop
 related_publications: true
