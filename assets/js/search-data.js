@@ -434,6 +434,11 @@ ninja.data = [{
           description: "with background image",
           section: "Events",handler: () => {
               window.location.href = "/events/1_project/";
+            },},{id: "events-project-1",
+          title: 'project 1',
+          description: "with background image",
+          section: "Events",handler: () => {
+              window.location.href = "/events/2025_workshop/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
