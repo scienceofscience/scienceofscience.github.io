@@ -429,11 +429,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "events-1st-workshop",
-          title: '1st Workshop',
-          description: "April 7, 2025",
-          section: "Events",handler: () => {
-              window.location.href = "/events/workshop_2025/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
