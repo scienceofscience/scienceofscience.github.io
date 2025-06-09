@@ -429,6 +429,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "events-invited-talk-by-professor-jae-yun-lee-from-myongji-university",
+          title: 'Invited talk by Professor Jae Yun Lee from Myongji University',
+          description: "May 29, 2025 @ Yonsei University",
+          section: "Events",handler: () => {
+              window.location.href = "/events/2025_talk_Jaeyun_Lee/";
             },},{id: "events-first-workshop-on-the-science-of-science",
           title: 'First Workshop on the Science of Science',
           description: "April 7, 2025 @ Yonsei University",
