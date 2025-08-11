@@ -4,7 +4,7 @@ title: Tutorial on Scholarly Data Visualization
 description: August 9, 2025 @ Yonsei University
 img: assets/img/events/2025_tutorial_Jinyoung_Oh_2.jpg
 importance: 1
-category: talk
+category: tutorial
 related_publications: false
 ---
 The Center for Science of Science hosted a tutorial on scholarly data visualization using Korean Citation Index (KCI) data with Tableau on August 9.
