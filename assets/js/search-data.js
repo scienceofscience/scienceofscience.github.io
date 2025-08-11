@@ -434,6 +434,11 @@ ninja.data = [{
           description: "May 29, 2025 @ Yonsei University",
           section: "Events",handler: () => {
               window.location.href = "/events/2025_talk_Jaeyun_Lee/";
+            },},{id: "events-tutorial-on-scholarly-data-visualization",
+          title: 'Tutorial on Scholarly Data Visualization',
+          description: "August 9, 2025 @ Yonsei University",
+          section: "Events",handler: () => {
+              window.location.href = "/events/2025_tutorial_Jinyoung_Oh/";
             },},{id: "events-first-workshop-on-the-science-of-science",
           title: 'First Workshop on the Science of Science',
           description: "April 7, 2025 @ Yonsei University",
