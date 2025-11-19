@@ -2,8 +2,8 @@
 layout: page
 title: Invited talk by Professor Jae Yun Lee from Myongji University
 description: May 29, 2025 @ Yonsei University
-img: assets/img/events/2025_talk_Jaeyun_Lee_2.jpg
-importance: 1
+img: assets/img/events/2025_talk_Jaeyun_Lee_1.jpg
+importance: 11
 category: talk
 related_publications: false
 ---

@@ -3,7 +3,7 @@ layout: page
 title: Tutorial on Scholarly Data Visualization
 description: August 9, 2025 @ Yonsei University
 img: assets/img/events/2025_tutorial_Jinyoung_Oh_2.jpg
-importance: 1
+importance: 31
 category: tutorial
 related_publications: false
 ---

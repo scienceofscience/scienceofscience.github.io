@@ -3,7 +3,7 @@ layout: page
 title: First Workshop on the Science of Science
 description: April 7, 2025 @ Yonsei University
 img: assets/img/events/2025_workshop.jpg
-importance: 1
+importance: 21
 category: workshop
 related_publications: false
 ---
