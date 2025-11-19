@@ -5,7 +5,7 @@ permalink: /events/
 description: Workshops, Tutorials, & Invited Talks.
 nav: true
 nav_order: 3
-display_categories: [workshop, tutorial, talk]
+display_categories: [talk, workshop, tutorial]
 horizontal: false
 ---
 
