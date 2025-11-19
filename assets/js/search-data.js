@@ -434,6 +434,21 @@ ninja.data = [{
           description: "May 29, 2025 @ Yonsei University",
           section: "Events",handler: () => {
               window.location.href = "/events/2025_talk_Jaeyun_Lee/";
+            },},{id: "events-invited-talk-by-dr-mark-neijsse-of-the-centre-for-science-and-technology-studies-cwts-leiden-university",
+          title: 'Invited Talk by Dr. Mark Neijsse of the Centre for Science and Technology...',
+          description: "Nov 19, 2025 @ Yonsei University",
+          section: "Events",handler: () => {
+              window.location.href = "/events/2025_talk_Mark_Neijsse/";
+            },},{id: "events-invited-talk-by-dr-soohong-eum-of-the-centre-for-science-and-technology-studies-cwts-leiden-university",
+          title: 'Invited Talk by Dr. Soohong Eum of the Centre for Science and Technology...',
+          description: "Nov 19, 2025 @ Yonsei University",
+          section: "Events",handler: () => {
+              window.location.href = "/events/2025_talk_Soohong_Eum/";
+            },},{id: "events-invited-talk-by-professor-yoo-kyung-jeong-from-myongji-university",
+          title: 'Invited talk by Professor Yoo Kyung Jeong from Myongji University',
+          description: "Nov 19, 2025 @ Yonsei University",
+          section: "Events",handler: () => {
+              window.location.href = "/events/2025_talk_Yookyung_Jeong/";
             },},{id: "events-tutorial-on-scholarly-data-visualization",
           title: 'Tutorial on Scholarly Data Visualization',
           description: "August 9, 2025 @ Yonsei University",
