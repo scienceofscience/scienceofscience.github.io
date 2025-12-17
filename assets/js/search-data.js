@@ -438,11 +438,6 @@ ninja.data = [{
           title: 'Invited talk by Professor Jae Yun Lee from Myongji University',
           description: "May 29, 2025 @ Yonsei University",
           section: "Events",handler: () => {
-              window.location.href = "/events/2025_talk_Eunkyung_Chung/";
-            },},{id: "events-invited-talk-by-professor-jae-yun-lee-from-myongji-university",
-          title: 'Invited talk by Professor Jae Yun Lee from Myongji University',
-          description: "May 29, 2025 @ Yonsei University",
-          section: "Events",handler: () => {
               window.location.href = "/events/2025_talk_Jaeyun_Lee/";
             },},{id: "events-invited-talk-by-dr-mark-neijsse-of-the-centre-for-science-and-technology-studies-cwts-leiden-university",
           title: 'Invited Talk by Dr. Mark Neijsse of the Centre for Science and Technology...',
