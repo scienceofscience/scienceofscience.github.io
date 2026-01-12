@@ -464,6 +464,11 @@ ninja.data = [{
           description: "April 7, 2025 @ Yonsei University",
           section: "Events",handler: () => {
               window.location.href = "/events/2025_workshop/";
+            },},{id: "events-invited-talk-by-professor-ziyoung-park-from-hansung-university",
+          title: 'Invited talk by Professor Ziyoung Park from Hansung University',
+          description: "Jan 12, 2026 @ Yonsei University",
+          section: "Events",handler: () => {
+              window.location.href = "/events/2026_talk_Ziyoung_Park/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
