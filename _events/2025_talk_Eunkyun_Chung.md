@@ -36,7 +36,7 @@ The Center for Science of Science hosted Professor Eunkyung Chung (Ewha Womans U
     </div>
 </div>
 <div class="caption">
-    Prof. JEunkyung Chung delivers a talk on Open Science.
+    Prof. Eunkyung Chung delivers a talk on Open Science.
 </div>
 
 
