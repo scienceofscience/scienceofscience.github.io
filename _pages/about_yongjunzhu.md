@@ -1,4 +1,4 @@
-Dr. Yongjun Zhu is an associate professor in the Department of Library and Information Science at [Yonsei University](https://www.yonsei.ac.kr/en_sc/), South Korea. He is the founding director of the [DataLab](https://datalab.yonsei.ac.kr/) and the [Center for Science of Science](https://sci.yonsei.ac.kr/) at Yonsei University. 
+Dr. Yongjun Zhu is an associate professor in the Department of Library and Information Science at [Yonsei University](https://www.yonsei.ac.kr/en_sc/), South Korea. He is the founding director of the [DataLab](https://datalab.yonsei.ac.kr/) and the [Center for Science and Technology Studies](https://sci.yonsei.ac.kr/) at Yonsei University. 
 
 Before joining Yonsei University, he was an assistant professor in the Department of Library and Information Science and department chair in the Department of Data Science at [Sungkyunkwan University](https://www.skku.edu/eng/). He also worked as a postdoctoral associate at the [Department of Population Health Sciences](https://weill.cornell.edu/units/population-health-sciences), [Weill Cornell Medicine](https://weill.cornell.edu/), [Cornell University](https://www.cornell.edu/). 
 
