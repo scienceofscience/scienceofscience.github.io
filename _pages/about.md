@@ -6,7 +6,7 @@ subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: logo/sts_logo.png
+  image: logo/sts_en_ko.png
   image_circular: false # crops the image to make it circular
   more_info: >
 
