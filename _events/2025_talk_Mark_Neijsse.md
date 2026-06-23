@@ -8,7 +8,7 @@ category: talk
 related_publications: false
 ---
 
-The Center for Science of Science hosted Dr. Mark Neijsse (CWTS, Leiden University) on Nov 19, 2025, for a talk titled “From multiple (open) data sources to insights and strategic decision-making.”
+The Center for Science and Technology Studies hosted Dr. Mark Neijsse (CWTS, Leiden University) on Nov 19, 2025, for a talk titled “From multiple (open) data sources to insights and strategic decision-making.”
 
 
 

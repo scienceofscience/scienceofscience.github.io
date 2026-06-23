@@ -7,7 +7,7 @@ importance: 31
 category: tutorial
 related_publications: false
 ---
-The Center for Science of Science hosted a tutorial on scholarly data visualization using Korean Citation Index (KCI) data with Tableau on August 9.
+The Center for Science and Technology Studies hosted a tutorial on scholarly data visualization using Korean Citation Index (KCI) data with Tableau on August 9.
 
 
 

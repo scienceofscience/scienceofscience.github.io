@@ -8,7 +8,7 @@ category: talk
 related_publications: false
 ---
 
-The Center for Science of Science hosted Dr. Junyoung Lee (KISTI) on Jun 12, 2026, for a talk on scientometrics-informed decision support and its use cases.
+The Center for Science and Technology Studies hosted Dr. Junyoung Lee (KISTI) on Jun 12, 2026, for a talk on scientometrics-informed decision support and its use cases.
 
 
 

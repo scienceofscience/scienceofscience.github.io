@@ -8,7 +8,7 @@ category: workshop
 related_publications: false
 ---
 
-On April 7, 2025, the Center for Science of Science hosted the First Workshop on the Science of Science in South Korea, held at Yonsei University, with the subtitle “Strengthening Korea’s Role in the Global Science of Science Community.
+On April 7, 2025, the Center for Science and Technology Studies hosted the First Workshop on the Science of Science in South Korea, held at Yonsei University, with the subtitle “Strengthening Korea’s Role in the Global Science of Science Community.
 
 
 

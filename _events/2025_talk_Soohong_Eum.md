@@ -8,7 +8,7 @@ category: talk
 related_publications: false
 ---
 
-The Center for Science of Science hosted Dr. Soohong Eum (CWTS, Leiden University) on Nov 19, 2025, for a talk titled “The Potential of Research Information Analysis in the Korean Context.”
+The Center for Science and Technology Studies hosted Dr. Soohong Eum (CWTS, Leiden University) on Nov 19, 2025, for a talk titled “The Potential of Research Information Analysis in the Korean Context.”
 
 
 

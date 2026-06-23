@@ -8,7 +8,7 @@ category: talk
 related_publications: false
 ---
 
-The Center for Science of Science hosted Professor Eunkyung Chung (Ewha Womans University) on Dec 17, 2025, for a talk on oepn science and research impact evaluation.
+The Center for Science and Technology Studies hosted Professor Eunkyung Chung (Ewha Womans University) on Dec 17, 2025, for a talk on oepn science and research impact evaluation.
 
 
 

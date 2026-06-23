@@ -8,7 +8,7 @@ category: talk
 related_publications: false
 ---
 
-The Center for Science of Science hosted Professor Ziyoung Park (Hansung University) on Jan 12, 2026, for a talk on K-KOS open archive.
+The Center for Science and Technology Studies hosted Professor Ziyoung Park (Hansung University) on Jan 12, 2026, for a talk on K-KOS open archive.
 
 
 

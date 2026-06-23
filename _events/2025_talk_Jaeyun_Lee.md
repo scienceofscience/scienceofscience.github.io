@@ -8,7 +8,7 @@ category: talk
 related_publications: false
 ---
 
-The Center for Science of Science hosted Professor Jae Yun Lee (Myongji University) on May 29, 2025, for a talk on the KCI knowledge ecosystem.
+The Center for Science and Technology Studies hosted Professor Jae Yun Lee (Myongji University) on May 29, 2025, for a talk on the KCI knowledge ecosystem.
 
 
 

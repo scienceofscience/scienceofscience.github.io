@@ -8,7 +8,7 @@ category: talk
 related_publications: false
 ---
 
-The Center for Science of Science hosted Professor Yoo Kyung Jeong (Myongji University) on Nov 19, 2025, for a talk titled “Contextual Citation: Mapping Knowledge form Citation Sentence"
+The Center for Science and Technology Studies hosted Professor Yoo Kyung Jeong (Myongji University) on Nov 19, 2025, for a talk titled “Contextual Citation: Mapping Knowledge form Citation Sentence"
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
