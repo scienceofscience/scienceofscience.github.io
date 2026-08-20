@@ -10,7 +10,7 @@ export default function LisList({ people }: { people: LisPerson[] }) {
   return (
     <ol className="divide-border divide-y">
       {people.map((p) => (
-        <li key={p.year} className="py-8 first:pt-0">
+        <li key={p.year} className="py-8">
           <div className="flex flex-wrap items-baseline gap-x-3">
             <span className="text-accent text-lg font-semibold">{p.year}</span>
             <h2 className="text-xl font-medium">{p.title}</h2>

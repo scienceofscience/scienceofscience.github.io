@@ -13,9 +13,7 @@ export default function LisPage() {
 
   return (
     <div className="pt-6 sm:pt-10">
-      <h1 className="text-4xl font-semibold tracking-tight sm:text-5xl">
-        Library and Information Science
-      </h1>
+      <h1 className="text-4xl font-semibold tracking-tight sm:text-5xl">LIS and STS</h1>
       <div className="max-w-3xl">
         <p className="text-muted mt-6 leading-relaxed">
           Science of science and science and technology studies both draw on Library and
