@@ -19,7 +19,8 @@ export default function LisPage() {
           Science of science and science and technology studies both draw on Library and
           Information Science. Someone counts as an LIS person below if they studied the field,
           worked in it professionally, or were recognized by the field itself — through an award,
-          an editorship, or a venue that belongs to LIS.
+          an editorship, a venue that belongs to LIS, or a law or term the field adopted as its
+          own.
         </p>
         <div className="border-border mt-8 border-t" />
         <LisList people={people} />

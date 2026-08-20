@@ -2,7 +2,7 @@
   {
     "year": 1934,
     "title": "S. C. Bradford",
-    "criteria": ["worked"],
+    "criteria": ["worked", "recognized"],
     "homepage": false,
     "description": "A librarian at London's Science Museum Library. Bradford formulates Bradford's Law, describing how articles on a subject scatter unevenly across journals — a founding result behind how libraries build collections and indexes.",
     "detail": null
@@ -10,7 +10,7 @@
   {
     "year": 1955,
     "title": "Eugene Garfield",
-    "criteria": ["studied", "recognized"],
+    "criteria": ["studied", "worked", "recognized"],
     "homepage": true,
     "description": "Holding a Master's in Library Science from Columbia. Garfield proposes citation indexing in Science, then founds the Institute for Scientific Information (1960) and publishes the first Science Citation Index (1964).",
     "detail": "Garfield went on to found Current Contents and to introduce the journal impact factor, both of which became standard infrastructure for how the sciences track and evaluate their own literature."
@@ -18,7 +18,7 @@
   {
     "year": 1969,
     "title": "Alan Pritchard",
-    "criteria": ["studied"],
+    "criteria": ["studied", "recognized"],
     "homepage": false,
     "description": "Affiliated with London's School of Librarianship at North-Western Polytechnic, writing in the Journal of Documentation, a core library and information science journal. Pritchard coins the term \"bibliometrics,\" giving the field its lasting name.",
     "detail": "He later co-wrote Bibliometrics: A Bibliography and Index with Glenn R. Wittig. Little else about his career is documented — no confirmed librarian post or later academic appointment has been found beyond the School of Librarianship affiliation and an MPhil credential."
