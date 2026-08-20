@@ -17,11 +17,11 @@ export default function CenterLogo() {
         className="h-16 w-16 shrink-0 sm:h-20 sm:w-20"
       />
       <div className="leading-tight text-[#003477]">
-        <h1 className={`${yonseiBold.className} text-lg whitespace-nowrap sm:text-xl`}>
+        <h1 className={`${yonseiBold.className} text-lg sm:text-xl sm:whitespace-nowrap`}>
           연세대학교 과학기술학연구센터
         </h1>
         <p
-          className={`${yonseiLogo.className} mt-1 text-[10px] tracking-widest whitespace-nowrap uppercase sm:text-xs`}
+          className={`${yonseiLogo.className} mt-1 text-[10px] tracking-widest uppercase sm:text-xs sm:whitespace-nowrap`}
         >
           Center for Science and Technology Studies
         </p>
