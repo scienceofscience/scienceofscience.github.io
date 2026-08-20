@@ -1,0 +1,22 @@
+[
+  {
+    "year": 1934,
+    "title": "S. C. Bradford",
+    "description": "A librarian at London's Science Museum Library, Bradford formulates Bradford's Law describing how articles on a subject scatter across journals — foundational to how libraries built collections and indexes."
+  },
+  {
+    "year": 1955,
+    "title": "Eugene Garfield",
+    "description": "Holding a Master's in Library Science from Columbia, Garfield proposes citation indexing in Science, then founds the Institute for Scientific Information (1960) and publishes the first Science Citation Index (1964)."
+  },
+  {
+    "year": 1969,
+    "title": "Alan Pritchard",
+    "description": "Writing in the Journal of Documentation, a library and information science journal, Pritchard coins the term \"bibliometrics,\" giving the field its lasting name."
+  },
+  {
+    "year": 1973,
+    "title": "Henry Small",
+    "description": "A joint PhD in chemistry and history of science working as chief scientist at the Institute for Scientific Information, Small develops co-citation analysis, mapping how the literature clusters around shared ideas."
+  }
+]

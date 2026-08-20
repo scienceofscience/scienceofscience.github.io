@@ -1,0 +1,82 @@
+[
+  {
+    "slug": "yongjunzhu",
+    "name": "Yongjun Zhu",
+    "role": "advisory_board",
+    "title": "Director",
+    "photo": "/img/people/yongjunzhu.jpg",
+    "order": 1
+  },
+  {
+    "slug": "seojinnam",
+    "name": "Seojin Nam",
+    "role": "researcher",
+    "title": "PhD Student, DataLab",
+    "photo": "/img/people/seojinnam_profile.jpg",
+    "order": 2
+  },
+  {
+    "slug": "tingjiang",
+    "name": "Ting Jiang",
+    "role": "researcher",
+    "title": "PhD Student, DataLab",
+    "photo": "/img/people/tingjiang_profile.jpg",
+    "order": 3
+  },
+  {
+    "slug": "jinyoungoh",
+    "name": "Jinyoung Oh",
+    "role": "researcher",
+    "title": "PhD Student, DataLab",
+    "photo": "/img/people/jinyoungoh_profile.jpg",
+    "order": 4
+  },
+  {
+    "slug": "donghunkim",
+    "name": "Donghun Kim",
+    "role": "researcher",
+    "title": "Faculty Affiliate",
+    "photo": "/img/people/donghunkim_profile.jpg",
+    "order": 5
+  },
+  {
+    "slug": "yizhao",
+    "name": "Yi Zhao",
+    "role": "researcher",
+    "title": "Faculty Affiliate",
+    "photo": "/img/people/yizhao_profile.jpg",
+    "order": 6
+  },
+  {
+    "slug": "souhyunjang",
+    "name": "Sou Hyun Jang",
+    "role": "advisory_board",
+    "title": "Advisory board member",
+    "photo": "/img/people/souhyunjang.jpg",
+    "order": 7
+  },
+  {
+    "slug": "soojeounghan",
+    "name": "Soo Jeoung Han",
+    "role": "advisory_board",
+    "title": "Advisory board member",
+    "photo": "/img/people/soojeounghan.jpg",
+    "order": 8
+  },
+  {
+    "slug": "eunhaoh",
+    "name": "Eun Ha Oh",
+    "role": "advisory_board",
+    "title": "Advisory board member",
+    "photo": "/img/people/eunhaoh.jpg",
+    "order": 9
+  },
+  {
+    "slug": "jiyeonkook",
+    "name": "Jiyeon Kook",
+    "role": "advisory_board",
+    "title": "Advisory board member",
+    "photo": "/img/people/jiyeonkook.jpg",
+    "order": 10
+  }
+]

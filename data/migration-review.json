@@ -1,0 +1,153 @@
+{
+  "review": [
+    {
+      "matchScore": 106,
+      "similarity": 1,
+      "bibTitle": "Do more heads imply better performance? An empirical study of team thought leaders' impact on scientific team performance",
+      "matchedTitle": "Do more heads imply better performance? An empirical study of team thought leaders' impact on scientific team performance",
+      "bibJournal": "Information Processing & Management",
+      "matchedJournal": "Information Processing & Management",
+      "doi": "10.1016/j.ipm.2024.103757",
+      "exactTitle": true
+    },
+    {
+      "matchScore": 85,
+      "similarity": 1,
+      "bibTitle": "An Exploratory Study of Medical Journal’s Twitter Use: Metadata, Networks, and Content Analyses",
+      "matchedTitle": "An Exploratory Study of Medical Journal’s Twitter Use: Metadata, Networks, and Content Analyses",
+      "bibJournal": "Journal of Medical Internet Research",
+      "matchedJournal": "Journal of Medical Internet Research",
+      "doi": "10.2196/43521",
+      "exactTitle": true
+    },
+    {
+      "matchScore": 63,
+      "similarity": 1,
+      "bibTitle": "Understanding the Research Landscape of Deep Learning in Biomedical Science: Scientometric Analysis",
+      "matchedTitle": "Understanding the Research Landscape of Deep Learning in Biomedical Science: Scientometric Analysis",
+      "bibJournal": "Journal of Medical Internet Research",
+      "matchedJournal": "Journal of Medical Internet Research",
+      "doi": "10.2196/28114",
+      "exactTitle": true
+    },
+    {
+      "matchScore": 70,
+      "similarity": 1,
+      "bibTitle": "Analyzing China’s research collaboration with the United States in high-impact and high-technology research",
+      "matchedTitle": "Analyzing China’s research collaboration with the United States in high-impact and high-technology research",
+      "bibJournal": "Quantitative Science Studies",
+      "matchedJournal": "Quantitative Science Studies",
+      "doi": "10.1162/qss_a_00098",
+      "exactTitle": true
+    },
+    {
+      "matchScore": 82,
+      "similarity": 1,
+      "bibTitle": "Analyzing academic mobility of U.S. professors based on ORCID data and the Carnegie Classification",
+      "matchedTitle": "Analyzing academic mobility of U.S. professors based on ORCID data and the Carnegie Classification",
+      "bibJournal": "Quantitative Science Studies",
+      "matchedJournal": "Quantitative Science Studies",
+      "doi": "10.1162/qss_a_00088",
+      "exactTitle": true
+    },
+    {
+      "matchScore": 65,
+      "similarity": 1,
+      "bibTitle": "Mapping scientific landscapes in UMLS research: a scientometric review",
+      "matchedTitle": "Mapping scientific landscapes in UMLS research: a scientometric review",
+      "bibJournal": "Journal of the American Medical Informatics Association",
+      "matchedJournal": "Journal of the American Medical Informatics Association",
+      "doi": "10.1093/jamia/ocaa107",
+      "exactTitle": true
+    },
+    {
+      "matchScore": 98,
+      "similarity": 1,
+      "bibTitle": "Understanding the research landscape of major depressive disorder via literature mining: an entity-level analysis of PubMed data from 1948 to 2017",
+      "matchedTitle": "Understanding the research landscape of major depressive disorder via literature mining: an entity-level analysis of PubMed data from 1948 to 2017",
+      "bibJournal": "JAMIA Open",
+      "matchedJournal": "JAMIA Open",
+      "doi": "10.1093/jamiaopen/ooy001",
+      "exactTitle": true
+    },
+    {
+      "matchScore": 58,
+      "similarity": 1,
+      "bibTitle": "Tracking word semantic change in biomedical literature",
+      "matchedTitle": "Tracking word semantic change in biomedical literature",
+      "bibJournal": "International Journal of Medical Informatics",
+      "matchedJournal": "International Journal of Medical Informatics",
+      "doi": "10.1016/j.ijmedinf.2017.11.006",
+      "exactTitle": true
+    },
+    {
+      "matchScore": 68,
+      "similarity": 1,
+      "bibTitle": "A natural language interface to a graph-based bibliographic information retrieval system",
+      "matchedTitle": "A natural language interface to a graph-based bibliographic information retrieval system",
+      "bibJournal": "Data & Knowledge Engineering",
+      "matchedJournal": "Data & Knowledge Engineering",
+      "doi": "10.1016/j.datak.2017.06.006",
+      "exactTitle": true
+    },
+    {
+      "matchScore": 85,
+      "similarity": 1,
+      "bibTitle": "Examining academic ranking and inequality in library and information science through faculty hiring networks",
+      "matchedTitle": "Examining academic ranking and inequality in library and information science through faculty hiring networks",
+      "bibJournal": "Journal of Informetrics",
+      "matchedJournal": "Journal of Informetrics",
+      "doi": "10.1016/j.joi.2017.04.007",
+      "exactTitle": true
+    },
+    {
+      "matchScore": 80,
+      "similarity": 1,
+      "bibTitle": "Searching bibliographic data using graphs: A visual graph query interface",
+      "matchedTitle": "Searching bibliographic data using graphs: A visual graph query interface",
+      "bibJournal": "Journal of Informetrics",
+      "matchedJournal": "Journal of Informetrics",
+      "doi": "10.1016/j.joi.2016.09.005",
+      "exactTitle": true
+    },
+    {
+      "matchScore": 73,
+      "similarity": 1,
+      "bibTitle": "Identifying entities from scientific publications: A comparison of vocabulary- and model-based methods",
+      "matchedTitle": "Identifying entities from scientific publications: A comparison of vocabulary- and model-based methods",
+      "bibJournal": "Journal of Informetrics",
+      "matchedJournal": "Journal of Informetrics",
+      "doi": "10.1016/j.joi.2015.04.003",
+      "exactTitle": true
+    }
+  ],
+  "unresolved": [
+    {
+      "similarity": 0.6,
+      "bibTitle": "An investigation of the intellectual structure of opinion mining research",
+      "rejectedTitle": "Mapping the intellectual structure of electronic commerce research: 1997-2006",
+      "rejectedDoi": "10.1504/ijeb.2010.030714",
+      "fromBib": {
+        "title": "An investigation of the intellectual structure of opinion mining research",
+        "authors": [
+          "Yongjun Zhu",
+          "Meen Chul Kim",
+          "Chaomei Chen"
+        ],
+        "journal": "Information Research: An International Electronic Journal",
+        "abstract": "Introduction: Opinion mining has been receiving increasing attention from a broad range of scientific communities since early 2000s. The present study aims to systematically investigate the intellectual structure of opinion mining research. Method: Using topic search, citation expansion, and patent search, we collected 5,596 bibliographic records of opinion mining research. Then, intellectual landscapes, emerging trends, and recent developments were identified. We also captured domain-level citation trends, subject category assignment, keyword co-occurrence, document co-citation network, and landmark articles. Analysis: Our study was guided by scientometric approaches implemented in CiteSpace, a visual analytic system based on networks of co-cited documents. We also employed a dual-map overlay technique to investigate epistemological characteristics of the domain. Results: We found that the investigation of algorithmic and linguistic aspects of opinion mining has been of the community's greatest interest to understand, quantify, and apply the sentiment orientation of texts. Recent thematic trends reveal that practical applications of opinion mining such as the prediction of market value and investigation of social aspects of product feedback have received increasing attention from the community. Conclusion: Opinion mining is fast-growing and still developing, exploring the refinements of related techniques and applications in a variety of domains. We plan to apply the proposed analytics to more diverse domains and comprehensive publication materials to gain more generalized understanding of the true structure of a science.",
+        "volume": "22",
+        "pages": "paper739",
+        "year": 2017
+      }
+    }
+  ],
+  "failures": [
+    {
+      "title": "Distribution of researcher-level funding allocation among US federal funding agencies",
+      "journal": "ISSI",
+      "doi": "10.5281/zenodo.8432318",
+      "error": "Crossref 404 for /works/10.5281%2Fzenodo.8432318"
+    }
+  ]
+}

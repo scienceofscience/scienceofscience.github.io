@@ -1,3 +1,4 @@
+# jekyll (legacy, removed once the Next.js site is confirmed live)
 _site
 .bundle
 .sass-cache
@@ -8,6 +9,19 @@ _site
 .tweet-cache
 Gemfile.lock
 assets/libs/
-node_modules/
 vendor
+
+# next.js
+/.next/
+/out/
+next-env.d.ts
+*.tsbuildinfo
+
+# raw font downloads (source zips/installers, not the site's actual font
+# files — those live under app/fonts/ and are tracked)
+/fonts/
+
+node_modules/
 .idea
+.DS_Store
+*.pem

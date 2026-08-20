@@ -1,0 +1,34 @@
+@import "tailwindcss";
+
+/* One fixed palette — no dark mode, no OS-driven or class-driven variant.
+   Yonsei's own CI guideline is gated behind staff-only groupware, so this is
+   read from yonsei.ac.kr's own live CSS instead of guessed: #003477/#003378
+   is the deep blue the site itself uses for its header and primary buttons
+   (w_layout.css / w_main.css), next to a brighter #1163ff reserved there for
+   hover states. The deep tone fits a research center's tone better than the
+   hover-only brighter one. */
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+  --muted: #6b7280;
+  --border: #e5e7eb;
+  --accent: #003477;
+  --accent-foreground: #ffffff;
+  color-scheme: light;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-muted: var(--muted);
+  --color-border: var(--border);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --font-sans: var(--font-google-sans-flex), ui-sans-serif, system-ui, sans-serif;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+}

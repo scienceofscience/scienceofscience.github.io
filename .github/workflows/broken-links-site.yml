@@ -1,9 +1,11 @@
-name: Check for broken links on site
+name: Check for broken links on site (Jekyll, disabled)
 
+# Disabled — rebuilds the old Jekyll source and checks that local build's
+# links, not the deployed Next.js site (and would name-collide with the new
+# "Deploy site" workflow's workflow_run trigger). No live-site-checking
+# equivalent exists yet for the new site; add one if wanted.
 on:
-  workflow_run:
-    workflows: [Deploy site]
-    types: [completed]
+  workflow_dispatch:
 
 jobs:
   check-links-on-site:

@@ -1,14 +1,10 @@
-name: Prettier code formatter
+name: Prettier code formatter (Jekyll, disabled)
 
+# Disabled — al-folio/Jekyll-specific, checked pre-existing failures on files
+# on their way out with the Next.js migration. See deploy.yml's new sibling
+# workflow and /Users/ddun/.claude/plans/vast-kindling-bachman.md.
 on:
-  pull_request:
-    branches:
-      - master
-      - main
-  push:
-    branches:
-      - master
-      - main
+  workflow_dispatch:
 
 jobs:
   check:
