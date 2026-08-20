@@ -11,9 +11,9 @@ export default function LisSpotlight() {
   return (
     <div>
       <p className="text-muted leading-relaxed">
-        Science of science and science and technology studies both draw on{" "}
-        <strong className="text-foreground font-medium">Library and Information Science</strong>.
-        For example:
+        Science of science and science and technology studies draw on many fields —{" "}
+        <strong className="text-foreground font-medium">Library and Information Science</strong>{" "}
+        among them. For example:
       </p>
 
       <div className="border-border mt-6 border-l-2 pl-4">
