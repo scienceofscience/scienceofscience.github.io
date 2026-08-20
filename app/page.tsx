@@ -2,7 +2,7 @@ import Link from "next/link";
 import { getPublications } from "@/lib/publications";
 import RecentPublications from "@/components/RecentPublications";
 import CenterLogo from "@/components/CenterLogo";
-import HistoryTimeline from "@/components/HistoryTimeline";
+import LisSpotlight from "@/components/LisSpotlight";
 
 export default function HomePage() {
   const recent = getPublications().slice(0, 5);
@@ -13,7 +13,7 @@ export default function HomePage() {
         <CenterLogo />
 
         <div className="border-border mt-8 border-t pt-8">
-          <HistoryTimeline />
+          <LisSpotlight />
         </div>
 
         <div className="border-border mt-8 border-t pt-8">
