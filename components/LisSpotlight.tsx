@@ -25,7 +25,7 @@ export default function LisSpotlight() {
       </div>
 
       <Link href="/lis/" className="text-accent mt-4 inline-block text-sm hover:underline">
-        More on the field&apos;s roots in Library and Information Science →
+        More on the field&apos;s connection to Library and Information Science →
       </Link>
     </div>
   );
