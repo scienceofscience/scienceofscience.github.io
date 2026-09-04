@@ -2,4 +2,4 @@ Sou Hyun Jang is an Associate Professor in the Department of Sociology at Korea 
 
 Her current research explores discourse surrounding international students and domestic workers through big social data analysis, and she is also interested in academic mobility among international scholars in Korea.
 
-Personal website: https://sites.google.com/site/souhyunjang/home
+[Personal Website](https://sites.google.com/site/souhyunjang/home)
