@@ -1,1 +1,3 @@
-Dr. Donghun Kim is an Assistant Professor at the [School of Information Management](https://njunju.nju.edu.cn/EN/7f/7d/c7136a163709/page.htm) at [Nanjing University](https://www.nju.edu.cn/en/), China. He earned his Ph.D. in Library and Information Science from Yonsei University and his M.S. in the same field from Sungkyunkwan University. His research interests focus on understanding research collaboration and team dynamics in academic settings using various data science techniques.
+Dr. Donghun Kim is an Assistant Professor at the [School of Information Management](https://njunju.nju.edu.cn/EN/7f/7d/c7136a163709/page.htm) at [Nanjing University](https://www.nju.edu.cn/en/), China. He earned his Ph.D. in Library and Information Science from Yonsei University and his M.S. in the same field from Sungkyunkwan University.
+
+His research interests focus on understanding research collaboration and team dynamics in academic settings using various data science techniques.
