@@ -78,5 +78,13 @@
     "title": "Advisory board member",
     "photo": "/img/people/jiyeonkook.jpg",
     "order": 10
+  },
+  {
+    "slug": "chiyoungsong",
+    "name": "Chiyoung Song",
+    "role": "researcher",
+    "title": "Master's Student, DataLab",
+    "photo": "/img/people/chiyoungsong.jpg",
+    "order": 11
   }
 ]
