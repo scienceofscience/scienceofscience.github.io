@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://scienceofscience.github.io/sitemap.xml
